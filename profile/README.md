@@ -8,5 +8,5 @@
   * 米家系列游戏的多账号工具，支持国际服。
 
 你的支持，是我持续更新的动力！ヾ(･ω･`｡) 👇
-* [⚡爱发电](https://afdian.net/@huiyadanli)
+* [⚡爱发电](https://afdian.com/@huiyadanli)
 * [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)
