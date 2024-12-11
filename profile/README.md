@@ -1,4 +1,4 @@
-一个存放由 [@huiyadanli](https://github.com/huiyadanli) 开发的原神相关工具的组织。
+一个存放由 [@huiyadanli](https://github.com/huiyadanli) 开发的原神等游戏相关工具的组织。
 
 首页推荐：
 
